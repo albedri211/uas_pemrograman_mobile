@@ -32,7 +32,7 @@ Berikut adalah hasil laporan aplikasi yang telah saya buat:
 ![gambar](img/10.jpg)
 ![gambar](img/11.jpg)
 
-* Fragment: Aplikasi ini dapat memberikan informasi, seperti pemasangan wifi, pemasangan cctv, service komputer/laptop.
+* Fragment: Aplikasi ini dapat memberikan informasi, dan apabila di klik gambarnya dapat mengeluarkan vidio/trailer.
 ![gambar](img/12.jpg)
 ![gambar](img/13.jpg)
 ![gambar](img/14.jpg)
